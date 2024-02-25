@@ -40,4 +40,6 @@ Each setting item in the "OrpheusDL Settings" tab is read from "settings.json" u
 
 If you change any setting in the "GUI Settings" tab, a "settings-GUI.json" will be generated in the "config" folder to store all the settings in the "GUI Settings" tab
 
+(It is normal for the two Info boxes "Download Complete" and "Settings Update" to pop up immediately after you click the download button when running the application for the first time. Afterwards, you can download normally when you start the application.)
+
 If you have better ideas, you can come to https://t.me/Tidal_Group .
