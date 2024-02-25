@@ -23,9 +23,11 @@ A: App screenshot:
 
 This interface does not require any further explanation from me.
 
+
 ![1708882458731](https://github.com/liusitusha/OrpheusDL-GUI/assets/108543708/782b1944-97af-4a80-b5af-be5cd02b5dec)
 
 Each setting item in the "OrpheusDL Settings" tab is read from "settings.json" under the "config" folder, and the modified settings will also be stored in this "settings.json", that is to say , the setting items in this tab are all original OrpheusDL setting items.
+
 
 ![1708883917354](https://github.com/liusitusha/OrpheusDL-GUI/assets/108543708/a3196272-5b3b-4627-8673-59af27cc8c63)
 
