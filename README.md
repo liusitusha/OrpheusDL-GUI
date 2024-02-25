@@ -5,6 +5,7 @@ Q: What is this stuff?
 
 A: A GUI for OrpheusDL
 
+
 Q: Is there anything worth noting?
 
 A: Necessary items: orpheusdl
@@ -13,9 +14,11 @@ And, I recommend that you go to your Control Panel and enable the "Use Unicode U
 
 ![image](https://github.com/liusitusha/OrpheusDL-GUI/assets/108543708/0f7a0597-90e5-4622-a898-3b642a52b773)
 
+
 Q: How to configure files？
 
 A: First, go into your original OrpheusDL folder and press Ctrl+A to select all files, then press Ctrl+X to cut all files, then create a new folder named "_internal" in the original OrpheusDL folder, and then enter Press Ctrl+V in the "_internal" folder to paste all the files (that is, moved 😄), then return to the original OrpheusDL folder, and extract the "_internal" folder and "OrpheusDL-GUI.exe" in the ZIP package to the original OrpheusDL file Just clip it in
+
 
 Q: Can I get a first look at what the app looks like? Decide whether to download
 
