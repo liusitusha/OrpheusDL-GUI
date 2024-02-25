@@ -2,9 +2,11 @@
 ![OrpheusDL-GUI - 副本](https://github.com/liusitusha/OrpheusDL-GUI/assets/108543708/bfa5f2a5-3ff5-4cb1-b4eb-cfdcc9be7041)
 
 Q: What is this stuff?
+
 A: A GUI for OrpheusDL
 
 Q: Is there anything worth noting?
+
 A: Necessary items: orpheusdl
 
 And, I recommend that you go to your Control Panel and enable the "Use Unicode UTF-8 for wordwide language support" option. At least as far as my computer is concerned, if it is not turned on, resources containing special symbols such as "♥" and some less popular languages ​​will not be downloaded.
