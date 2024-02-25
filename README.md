@@ -1,6 +1,5 @@
 # OrpheusDL-GUI
-![OrpheusDL-GUI](https://github.com/liusitusha/OrpheusDL-GUI/assets/108543708/26c4644f-2164-4f10-b6dd-ca1953090fc1)
-
+![Uploading OrpheusDL-GUI - 副本.png…]()
 
 A GUI for OrpheusDL
 
