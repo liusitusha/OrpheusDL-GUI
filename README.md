@@ -40,4 +40,4 @@ Each setting item in the "OrpheusDL Settings" tab is read from "settings.json" u
 
 If you change any setting in the "GUI Settings" tab, a "settings-GUI.json" will be generated in the "config" folder to store all the settings in the "GUI Settings" tab
 
-If you have better ideas, you can come to https://t.me/Tidal_Group to find me.
+If you have better ideas, you can come to https://t.me/Tidal_Group .
