@@ -8,7 +8,7 @@ A: A GUI for OrpheusDL
 
 Q: Is there anything worth noting?
 
-A: Necessary items: orpheusdl
+A: Necessary items: OrpheusDL
 
 And, I recommend that you go to your Control Panel and enable the "Use Unicode UTF-8 for wordwide language support" option. At least as far as my computer is concerned, if it is not turned on, resources containing special symbols such as "♥" and some less popular languages ​​will not be downloaded.
 
